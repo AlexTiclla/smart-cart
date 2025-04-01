@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reglas Apriori</title>
+    <style>
+        table { border-collapse: collapse; width: 90%; margin: 20px auto; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+        th { background-color: #f2f2f2; }
+        .highlight { background-color: #ffeeba; }
+    </style>
+</head>
+<body>
+    <h2 style="text-align:center;">📊 Reglas Apriori</h2>
+    <table>
+        <tr>
+            <th>Antecedente</th>
+            <th>Consecuente</th>
+            <th>Soporte</th>
+            <th>Confianza</th>
+            <th>Lift</th>
+        </tr>
+        {% for r in reglas %}
+        <tr class="{% if 'Espejo' in r.antecedents or 'Espejo' in r.consequents %}highlight{% endif %}">
+            <td>{{ r.antecedents }}</td>
+            <td>{{ r.consequents }}</td>
+            <td>{{ r.support|floatformat:3 }}</td>
+            <td>{{ r.confidence|floatformat:3 }}</td>
+            <td>{{ r.lift|floatformat:3 }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

@@ -1,0 +1,875 @@
+id_transaccion,producto
+T0001,Protector de Pantalla
+T0001,Power Bank
+T0001,Auriculares
+T0002,Laptop
+T0002,Power Bank
+T0003,Cargador
+T0003,Smartphone
+T0003,Power Bank
+T0003,Teclado
+T0003,Auriculares
+T0004,Power Bank
+T0004,Tablet
+T0004,Laptop
+T0005,Mouse
+T0005,Teclado
+T0005,Smartphone
+T0006,Laptop
+T0006,Tablet
+T0006,Teclado
+T0006,Smartwatch
+T0007,Smartphone
+T0007,Teclado
+T0007,Protector de Pantalla
+T0008,Tablet
+T0008,Smartphone
+T0008,Smartwatch
+T0009,Auriculares
+T0009,Mouse
+T0009,Protector de Pantalla
+T0009,Tablet
+T0010,Protector de Pantalla
+T0010,Teclado
+T0010,Mouse
+T0010,Smartwatch
+T0011,Auriculares
+T0011,Teclado
+T0011,Power Bank
+T0011,Cargador
+T0011,Smartphone
+T0012,Teclado
+T0013,Smartphone
+T0013,Power Bank
+T0013,Tablet
+T0013,Protector de Pantalla
+T0014,Smartwatch
+T0014,Auriculares
+T0014,Mouse
+T0015,Smartwatch
+T0015,Smartphone
+T0015,Teclado
+T0016,Auriculares
+T0016,Protector de Pantalla
+T0016,Smartphone
+T0016,Teclado
+T0016,Tablet
+T0017,Smartwatch
+T0018,Laptop
+T0019,Auriculares
+T0019,Smartphone
+T0019,Tablet
+T0020,Smartphone
+T0020,Mouse
+T0020,Auriculares
+T0020,Laptop
+T0020,Smartwatch
+T0021,Mouse
+T0021,Tablet
+T0021,Power Bank
+T0021,Smartwatch
+T0022,Teclado
+T0022,Laptop
+T0022,Tablet
+T0022,Smartphone
+T0023,Mouse
+T0023,Protector de Pantalla
+T0024,Cargador
+T0024,Teclado
+T0025,Power Bank
+T0026,Smartwatch
+T0026,Teclado
+T0026,Laptop
+T0027,Mouse
+T0027,Teclado
+T0027,Power Bank
+T0027,Laptop
+T0027,Protector de Pantalla
+T0028,Smartphone
+T0029,Auriculares
+T0030,Power Bank
+T0030,Teclado
+T0030,Laptop
+T0030,Mouse
+T0030,Cargador
+T0031,Smartwatch
+T0031,Auriculares
+T0031,Smartphone
+T0032,Smartphone
+T0032,Smartwatch
+T0032,Protector de Pantalla
+T0032,Auriculares
+T0033,Auriculares
+T0033,Smartphone
+T0033,Teclado
+T0033,Protector de Pantalla
+T0033,Power Bank
+T0034,Teclado
+T0035,Protector de Pantalla
+T0036,Auriculares
+T0036,Protector de Pantalla
+T0036,Tablet
+T0036,Laptop
+T0036,Teclado
+T0037,Laptop
+T0037,Smartphone
+T0037,Protector de Pantalla
+T0037,Auriculares
+T0038,Smartwatch
+T0039,Smartwatch
+T0039,Protector de Pantalla
+T0039,Tablet
+T0039,Auriculares
+T0039,Teclado
+T0040,Smartphone
+T0040,Laptop
+T0040,Mouse
+T0040,Teclado
+T0040,Auriculares
+T0041,Tablet
+T0041,Cargador
+T0041,Smartwatch
+T0041,Mouse
+T0041,Teclado
+T0042,Tablet
+T0042,Smartphone
+T0042,Auriculares
+T0043,Mouse
+T0043,Tablet
+T0043,Power Bank
+T0043,Cargador
+T0044,Power Bank
+T0044,Tablet
+T0044,Smartwatch
+T0045,Laptop
+T0045,Mouse
+T0045,Teclado
+T0046,Tablet
+T0046,Power Bank
+T0046,Mouse
+T0046,Cargador
+T0046,Smartwatch
+T0047,Smartwatch
+T0047,Cargador
+T0048,Laptop
+T0048,Cargador
+T0048,Auriculares
+T0049,Power Bank
+T0049,Smartwatch
+T0049,Cargador
+T0050,Mouse
+T0050,Protector de Pantalla
+T0050,Laptop
+T0050,Teclado
+T0050,Smartwatch
+T0051,Auriculares
+T0052,Protector de Pantalla
+T0052,Laptop
+T0052,Smartphone
+T0052,Cargador
+T0053,Mouse
+T0053,Laptop
+T0053,Protector de Pantalla
+T0053,Auriculares
+T0054,Laptop
+T0055,Teclado
+T0055,Protector de Pantalla
+T0056,Teclado
+T0056,Laptop
+T0057,Smartwatch
+T0057,Protector de Pantalla
+T0057,Auriculares
+T0057,Laptop
+T0057,Power Bank
+T0058,Protector de Pantalla
+T0059,Protector de Pantalla
+T0059,Cargador
+T0059,Auriculares
+T0059,Teclado
+T0060,Teclado
+T0060,Tablet
+T0061,Cargador
+T0061,Laptop
+T0061,Smartphone
+T0062,Cargador
+T0062,Power Bank
+T0062,Protector de Pantalla
+T0063,Mouse
+T0063,Protector de Pantalla
+T0064,Smartwatch
+T0064,Mouse
+T0064,Auriculares
+T0064,Smartphone
+T0065,Cargador
+T0065,Power Bank
+T0065,Teclado
+T0065,Laptop
+T0065,Mouse
+T0066,Power Bank
+T0066,Smartphone
+T0066,Smartwatch
+T0067,Auriculares
+T0067,Mouse
+T0068,Smartphone
+T0068,Power Bank
+T0069,Smartphone
+T0069,Power Bank
+T0069,Tablet
+T0069,Cargador
+T0070,Tablet
+T0070,Mouse
+T0071,Protector de Pantalla
+T0071,Cargador
+T0071,Auriculares
+T0072,Tablet
+T0073,Tablet
+T0074,Cargador
+T0074,Mouse
+T0074,Protector de Pantalla
+T0075,Smartphone
+T0075,Mouse
+T0075,Smartwatch
+T0076,Smartphone
+T0076,Teclado
+T0076,Protector de Pantalla
+T0076,Auriculares
+T0077,Auriculares
+T0078,Smartwatch
+T0078,Protector de Pantalla
+T0078,Tablet
+T0078,Cargador
+T0078,Power Bank
+T0079,Laptop
+T0079,Smartwatch
+T0079,Power Bank
+T0080,Mouse
+T0080,Tablet
+T0081,Smartphone
+T0081,Protector de Pantalla
+T0081,Laptop
+T0082,Mouse
+T0082,Power Bank
+T0082,Smartphone
+T0083,Tablet
+T0083,Auriculares
+T0083,Mouse
+T0083,Cargador
+T0083,Teclado
+T0084,Laptop
+T0084,Auriculares
+T0084,Protector de Pantalla
+T0084,Tablet
+T0085,Auriculares
+T0085,Tablet
+T0086,Protector de Pantalla
+T0086,Auriculares
+T0086,Laptop
+T0086,Smartwatch
+T0086,Power Bank
+T0087,Auriculares
+T0087,Laptop
+T0087,Smartwatch
+T0088,Teclado
+T0088,Tablet
+T0089,Tablet
+T0090,Tablet
+T0091,Tablet
+T0091,Cargador
+T0092,Protector de Pantalla
+T0092,Power Bank
+T0092,Teclado
+T0092,Tablet
+T0092,Cargador
+T0093,Cargador
+T0093,Power Bank
+T0093,Auriculares
+T0093,Smartwatch
+T0094,Auriculares
+T0094,Power Bank
+T0094,Laptop
+T0094,Smartwatch
+T0094,Teclado
+T0095,Smartphone
+T0096,Tablet
+T0096,Mouse
+T0096,Laptop
+T0096,Teclado
+T0097,Smartphone
+T0097,Auriculares
+T0097,Laptop
+T0097,Mouse
+T0097,Cargador
+T0098,Cargador
+T0098,Teclado
+T0098,Power Bank
+T0098,Laptop
+T0099,Protector de Pantalla
+T0099,Smartwatch
+T0100,Smartwatch
+T0100,Laptop
+T0101,Smartwatch
+T0101,Power Bank
+T0101,Laptop
+T0102,Smartwatch
+T0102,Teclado
+T0102,Mouse
+T0103,Teclado
+T0103,Laptop
+T0104,Cargador
+T0104,Auriculares
+T0104,Protector de Pantalla
+T0104,Teclado
+T0104,Power Bank
+T0105,Cargador
+T0105,Smartwatch
+T0105,Auriculares
+T0106,Power Bank
+T0106,Auriculares
+T0106,Smartwatch
+T0107,Smartphone
+T0107,Power Bank
+T0107,Cargador
+T0108,Power Bank
+T0109,Laptop
+T0109,Cargador
+T0110,Laptop
+T0110,Smartphone
+T0111,Protector de Pantalla
+T0112,Cargador
+T0112,Mouse
+T0112,Protector de Pantalla
+T0113,Mouse
+T0113,Smartphone
+T0113,Smartwatch
+T0113,Auriculares
+T0113,Power Bank
+T0114,Laptop
+T0114,Auriculares
+T0114,Smartphone
+T0114,Teclado
+T0114,Mouse
+T0115,Teclado
+T0115,Laptop
+T0116,Tablet
+T0116,Teclado
+T0116,Mouse
+T0116,Smartwatch
+T0116,Laptop
+T0117,Auriculares
+T0118,Smartphone
+T0119,Smartphone
+T0119,Auriculares
+T0119,Protector de Pantalla
+T0120,Power Bank
+T0120,Laptop
+T0120,Smartphone
+T0120,Protector de Pantalla
+T0121,Auriculares
+T0121,Teclado
+T0121,Smartphone
+T0121,Smartwatch
+T0121,Cargador
+T0122,Smartphone
+T0122,Auriculares
+T0122,Protector de Pantalla
+T0123,Tablet
+T0123,Laptop
+T0124,Cargador
+T0125,Auriculares
+T0125,Teclado
+T0125,Smartwatch
+T0125,Power Bank
+T0125,Protector de Pantalla
+T0126,Power Bank
+T0127,Teclado
+T0127,Protector de Pantalla
+T0127,Mouse
+T0127,Laptop
+T0127,Auriculares
+T0128,Laptop
+T0128,Smartwatch
+T0128,Protector de Pantalla
+T0129,Teclado
+T0129,Auriculares
+T0129,Tablet
+T0129,Smartwatch
+T0129,Mouse
+T0130,Smartphone
+T0131,Tablet
+T0131,Protector de Pantalla
+T0131,Cargador
+T0131,Smartwatch
+T0132,Tablet
+T0133,Tablet
+T0133,Mouse
+T0133,Smartphone
+T0133,Power Bank
+T0134,Auriculares
+T0134,Smartphone
+T0134,Power Bank
+T0134,Tablet
+T0135,Laptop
+T0136,Auriculares
+T0136,Cargador
+T0136,Protector de Pantalla
+T0137,Protector de Pantalla
+T0137,Smartwatch
+T0137,Smartphone
+T0137,Cargador
+T0137,Teclado
+T0138,Power Bank
+T0138,Cargador
+T0138,Protector de Pantalla
+T0138,Auriculares
+T0138,Smartphone
+T0139,Smartphone
+T0139,Cargador
+T0139,Tablet
+T0139,Power Bank
+T0140,Tablet
+T0140,Teclado
+T0140,Cargador
+T0140,Power Bank
+T0141,Auriculares
+T0142,Tablet
+T0142,Laptop
+T0143,Cargador
+T0143,Laptop
+T0143,Mouse
+T0144,Smartphone
+T0144,Tablet
+T0145,Tablet
+T0145,Laptop
+T0146,Mouse
+T0146,Laptop
+T0147,Mouse
+T0147,Cargador
+T0147,Teclado
+T0148,Teclado
+T0148,Smartphone
+T0149,Tablet
+T0150,Laptop
+T0150,Teclado
+T0150,Protector de Pantalla
+T0150,Mouse
+T0150,Auriculares
+T0151,Protector de Pantalla
+T0151,Power Bank
+T0151,Teclado
+T0151,Auriculares
+T0151,Tablet
+T0152,Smartwatch
+T0152,Cargador
+T0152,Teclado
+T0153,Teclado
+T0153,Smartwatch
+T0153,Cargador
+T0154,Cargador
+T0155,Tablet
+T0155,Power Bank
+T0156,Mouse
+T0156,Tablet
+T0156,Auriculares
+T0156,Smartwatch
+T0157,Power Bank
+T0157,Tablet
+T0157,Protector de Pantalla
+T0158,Auriculares
+T0159,Power Bank
+T0160,Auriculares
+T0160,Smartwatch
+T0160,Protector de Pantalla
+T0160,Smartphone
+T0161,Auriculares
+T0161,Smartwatch
+T0161,Laptop
+T0161,Smartphone
+T0161,Tablet
+T0162,Smartwatch
+T0162,Tablet
+T0163,Cargador
+T0163,Smartwatch
+T0163,Smartphone
+T0164,Smartwatch
+T0164,Cargador
+T0164,Teclado
+T0164,Protector de Pantalla
+T0164,Mouse
+T0165,Tablet
+T0165,Laptop
+T0165,Power Bank
+T0165,Smartphone
+T0165,Mouse
+T0166,Protector de Pantalla
+T0166,Teclado
+T0166,Laptop
+T0166,Smartphone
+T0167,Power Bank
+T0167,Tablet
+T0167,Mouse
+T0167,Teclado
+T0168,Protector de Pantalla
+T0169,Auriculares
+T0169,Smartphone
+T0170,Tablet
+T0170,Smartwatch
+T0171,Mouse
+T0171,Smartwatch
+T0171,Cargador
+T0172,Teclado
+T0172,Mouse
+T0172,Protector de Pantalla
+T0173,Protector de Pantalla
+T0173,Cargador
+T0173,Mouse
+T0173,Teclado
+T0173,Smartphone
+T0174,Smartphone
+T0174,Teclado
+T0174,Cargador
+T0175,Auriculares
+T0175,Mouse
+T0175,Power Bank
+T0175,Laptop
+T0176,Protector de Pantalla
+T0176,Smartwatch
+T0176,Teclado
+T0177,Protector de Pantalla
+T0177,Tablet
+T0178,Teclado
+T0179,Teclado
+T0179,Protector de Pantalla
+T0179,Cargador
+T0179,Laptop
+T0179,Smartphone
+T0180,Smartphone
+T0180,Cargador
+T0180,Smartwatch
+T0180,Protector de Pantalla
+T0181,Teclado
+T0181,Cargador
+T0182,Smartphone
+T0182,Cargador
+T0182,Power Bank
+T0183,Smartphone
+T0183,Protector de Pantalla
+T0183,Teclado
+T0183,Laptop
+T0184,Mouse
+T0184,Cargador
+T0184,Tablet
+T0184,Laptop
+T0185,Auriculares
+T0186,Teclado
+T0186,Laptop
+T0187,Protector de Pantalla
+T0187,Laptop
+T0187,Auriculares
+T0187,Cargador
+T0188,Protector de Pantalla
+T0188,Teclado
+T0189,Cargador
+T0189,Protector de Pantalla
+T0190,Smartphone
+T0190,Protector de Pantalla
+T0190,Laptop
+T0190,Teclado
+T0191,Teclado
+T0191,Auriculares
+T0191,Smartphone
+T0191,Smartwatch
+T0192,Mouse
+T0192,Smartwatch
+T0192,Teclado
+T0192,Cargador
+T0193,Protector de Pantalla
+T0194,Power Bank
+T0194,Tablet
+T0194,Laptop
+T0194,Auriculares
+T0194,Mouse
+T0195,Laptop
+T0196,Teclado
+T0197,Teclado
+T0197,Laptop
+T0198,Auriculares
+T0198,Cargador
+T0198,Power Bank
+T0198,Smartphone
+T0199,Smartphone
+T0200,Auriculares
+T0201,Cargador
+T0201,Laptop
+T0201,Teclado
+T0201,Smartphone
+T0202,Auriculares
+T0203,Laptop
+T0203,Tablet
+T0203,Smartphone
+T0203,Mouse
+T0204,Protector de Pantalla
+T0205,Auriculares
+T0206,Laptop
+T0206,Teclado
+T0207,Laptop
+T0207,Tablet
+T0208,Protector de Pantalla
+T0209,Cargador
+T0209,Smartphone
+T0210,Laptop
+T0210,Teclado
+T0210,Tablet
+T0210,Power Bank
+T0211,Laptop
+T0211,Smartphone
+T0212,Protector de Pantalla
+T0213,Power Bank
+T0213,Smartwatch
+T0213,Auriculares
+T0213,Tablet
+T0213,Protector de Pantalla
+T0214,Smartwatch
+T0214,Laptop
+T0214,Auriculares
+T0215,Teclado
+T0216,Mouse
+T0216,Smartphone
+T0216,Teclado
+T0216,Auriculares
+T0217,Smartwatch
+T0217,Laptop
+T0217,Auriculares
+T0217,Teclado
+T0218,Smartphone
+T0218,Protector de Pantalla
+T0218,Power Bank
+T0219,Teclado
+T0219,Laptop
+T0219,Tablet
+T0219,Auriculares
+T0220,Mouse
+T0220,Laptop
+T0220,Auriculares
+T0221,Protector de Pantalla
+T0221,Power Bank
+T0221,Laptop
+T0222,Smartphone
+T0222,Smartwatch
+T0222,Protector de Pantalla
+T0223,Power Bank
+T0223,Teclado
+T0223,Laptop
+T0224,Smartphone
+T0224,Power Bank
+T0224,Teclado
+T0224,Cargador
+T0224,Mouse
+T0225,Mouse
+T0225,Tablet
+T0225,Teclado
+T0225,Laptop
+T0226,Auriculares
+T0226,Mouse
+T0227,Power Bank
+T0227,Protector de Pantalla
+T0227,Auriculares
+T0227,Laptop
+T0227,Cargador
+T0228,Smartphone
+T0228,Laptop
+T0228,Mouse
+T0228,Cargador
+T0229,Protector de Pantalla
+T0230,Tablet
+T0231,Smartwatch
+T0231,Smartphone
+T0231,Cargador
+T0231,Teclado
+T0232,Auriculares
+T0232,Protector de Pantalla
+T0232,Smartphone
+T0232,Smartwatch
+T0232,Cargador
+T0233,Laptop
+T0233,Smartphone
+T0234,Cargador
+T0234,Mouse
+T0235,Laptop
+T0236,Power Bank
+T0237,Smartwatch
+T0237,Power Bank
+T0237,Smartphone
+T0237,Teclado
+T0238,Auriculares
+T0238,Tablet
+T0239,Auriculares
+T0240,Auriculares
+T0240,Laptop
+T0241,Teclado
+T0241,Mouse
+T0241,Auriculares
+T0242,Tablet
+T0242,Teclado
+T0243,Teclado
+T0243,Mouse
+T0243,Protector de Pantalla
+T0244,Power Bank
+T0244,Protector de Pantalla
+T0244,Tablet
+T0244,Cargador
+T0245,Mouse
+T0246,Smartwatch
+T0246,Tablet
+T0246,Mouse
+T0247,Teclado
+T0247,Cargador
+T0247,Smartwatch
+T0248,Power Bank
+T0248,Protector de Pantalla
+T0249,Auriculares
+T0249,Mouse
+T0250,Cargador
+T0250,Laptop
+T0250,Smartphone
+T0251,Smartwatch
+T0251,Mouse
+T0252,Smartwatch
+T0253,Protector de Pantalla
+T0253,Power Bank
+T0253,Mouse
+T0254,Cargador
+T0254,Tablet
+T0254,Mouse
+T0254,Smartphone
+T0255,Cargador
+T0255,Auriculares
+T0255,Smartwatch
+T0256,Teclado
+T0256,Mouse
+T0257,Cargador
+T0257,Protector de Pantalla
+T0257,Tablet
+T0257,Smartphone
+T0257,Smartwatch
+T0258,Tablet
+T0258,Protector de Pantalla
+T0258,Mouse
+T0259,Smartwatch
+T0260,Smartphone
+T0260,Protector de Pantalla
+T0261,Power Bank
+T0261,Tablet
+T0262,Power Bank
+T0262,Auriculares
+T0262,Cargador
+T0262,Smartphone
+T0262,Tablet
+T0263,Protector de Pantalla
+T0263,Teclado
+T0263,Smartphone
+T0263,Power Bank
+T0264,Protector de Pantalla
+T0264,Smartwatch
+T0264,Laptop
+T0265,Auriculares
+T0265,Protector de Pantalla
+T0265,Smartwatch
+T0266,Cargador
+T0266,Teclado
+T0266,Protector de Pantalla
+T0266,Smartphone
+T0266,Smartwatch
+T0267,Tablet
+T0267,Mouse
+T0267,Power Bank
+T0268,Laptop
+T0268,Tablet
+T0268,Smartwatch
+T0269,Auriculares
+T0269,Laptop
+T0269,Smartwatch
+T0269,Tablet
+T0270,Mouse
+T0270,Tablet
+T0270,Smartwatch
+T0271,Laptop
+T0271,Cargador
+T0271,Power Bank
+T0271,Smartphone
+T0271,Protector de Pantalla
+T0272,Tablet
+T0273,Smartphone
+T0273,Cargador
+T0273,Mouse
+T0274,Tablet
+T0274,Cargador
+T0274,Smartwatch
+T0274,Protector de Pantalla
+T0275,Power Bank
+T0276,Power Bank
+T0276,Protector de Pantalla
+T0276,Mouse
+T0277,Smartphone
+T0277,Protector de Pantalla
+T0277,Smartwatch
+T0277,Mouse
+T0277,Power Bank
+T0278,Protector de Pantalla
+T0279,Mouse
+T0279,Teclado
+T0280,Smartwatch
+T0280,Smartphone
+T0281,Teclado
+T0281,Tablet
+T0282,Protector de Pantalla
+T0282,Power Bank
+T0282,Auriculares
+T0282,Laptop
+T0282,Teclado
+T0283,Mouse
+T0284,Smartwatch
+T0285,Mouse
+T0285,Smartwatch
+T0285,Tablet
+T0286,Cargador
+T0286,Auriculares
+T0286,Tablet
+T0286,Power Bank
+T0287,Power Bank
+T0287,Auriculares
+T0287,Smartwatch
+T0287,Protector de Pantalla
+T0288,Teclado
+T0288,Laptop
+T0288,Tablet
+T0289,Tablet
+T0290,Protector de Pantalla
+T0291,Auriculares
+T0291,Teclado
+T0291,Cargador
+T0291,Smartphone
+T0291,Laptop
+T0292,Cargador
+T0292,Smartphone
+T0293,Protector de Pantalla
+T0293,Mouse
+T0294,Mouse
+T0295,Protector de Pantalla
+T0295,Smartphone
+T0296,Smartwatch
+T0296,Mouse
+T0296,Power Bank
+T0296,Laptop
+T0296,Protector de Pantalla
+T0297,Power Bank
+T0297,Cargador
+T0297,Protector de Pantalla
+T0297,Smartphone
+T0297,Smartwatch
+T0298,Mouse
+T0299,Laptop
+T0299,Smartphone
+T0299,Mouse
+T0299,Auriculares
+T0299,Power Bank
+T0300,Mouse

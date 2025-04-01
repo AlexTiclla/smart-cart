@@ -78,8 +78,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'smartcart_db',       # Nombre de tu base de datos
-        'USER': 'postgres',
-        'PASSWORD': 'alvarorionuevo15',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '5432',
     }
